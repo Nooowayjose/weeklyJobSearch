@@ -1,0 +1,11 @@
+target,source,value
+Texas,Applications,6
+Texas,Recruiters,10
+Interview,Referral,1
+Response,Texas,10
+No Response,Texas,6
+Interview,Response,2
+Under Consideration,Response,3
+Rejected,Response,5
+Declined Offer,Interview,2
+No Offer,Interview,1
